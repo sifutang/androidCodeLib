@@ -12,7 +12,7 @@
         android:gravity="center"
         android:orientation="vertical">
         <ImageButton
-            android:id="@+id/id_tab_weixin_img"
+            android:id="@+id/id_tab_home_img"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:src="@drawable/tab_weixin_pressed"
